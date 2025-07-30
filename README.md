@@ -32,7 +32,7 @@
 
 | Landing Page | User Selection Page |
 |--------------|---------------------|
-| ![Landing](assets/landing-page.png) | ![User Selection](assets/user-selection.png) |
+| ![Landing](img/landing-page.png) | ![User Selection](assets/user-selection.png) |
 
 ---
 
