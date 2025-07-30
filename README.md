@@ -28,45 +28,48 @@
 
 ## 📸 Screenshots
 
-## 🖼️ Landing & Selection
+### 🚪 Landing Page & User Selection
 
-| Landing Page         | User Selection Page    |
-|----------------------|------------------------|
+| Landing Page | User Selection Page |
+|--------------|---------------------|
 | ![Landing](assets/landing-page.png) | ![User Selection](assets/user-selection.png) |
 
 ---
 
-## 🏢 Adoption Agency Screens
+### 🏢 Adoption Agency Flow
 
-| Sign Up              | Profile Creation       | Home Screen           |
-|----------------------|------------------------|------------------------|
+| Sign Up | Profile Creation | Home Screen |
+|---------|------------------|--------------|
 | ![Sign Up](assets/agency-signup.png) | ![Profile Creation](assets/agency-profile-creation.png) | ![Home](assets/agency-home.png) |
 
 | Pet Profile Creation 1 | Pet Profile Creation 2 | Pet Profile Creation 3 |
 |------------------------|------------------------|------------------------|
-| ![Creation 1](assets/pet-profile-creation-1.png) | ![Creation 2](assets/pet-profile-creation-2.png) | ![Creation 3](assets/pet-profile-creation-3.png) |
+| ![Pet 1](assets/pet-profile-creation-1.png) | ![Pet 2](assets/pet-profile-creation-2.png) | ![Pet 3](assets/pet-profile-creation-3.png) |
 
-| Profile Created Successfully | View Pet Profiles    | Delete Pet Profile     |
-|-----------------------------|----------------------|------------------------|
-| ![Success](assets/pet-profile-success.png) | ![View](assets/view-pet-profiles.png) | ![Delete](assets/delete-pet-profile.png) |
+| View Pet Profiles | Delete Pet Profile | Edit Agency Details |
+|-------------------|--------------------|----------------------|
+| ![View](assets/view-pet-profiles.png) | ![Delete](assets/delete-pet-profile.png) | ![Edit Details](assets/edit-agency-details.png) |
 
-| Edit Agency Details          | Review Potential Pet Parents | Agency Settings         |
-|-----------------------------|------------------------------|--------------------------|
-| ![Edit](assets/edit-agency-details.png) | ![Review](assets/review-potential-parents.png) | ![Settings](assets/agency-settings.png) |
+| Review Potential Pet Parents | Interested User Profile 1 | Interested User Profile 2 |
+|------------------------------|---------------------------|---------------------------|
+| ![Review](assets/review-potential-parents.png) | ![Interested 1](assets/interested-user-profile-1.png) | ![Interested 2](assets/interested-user-profile-2.png) |
+
+| WhatsApp Redirection on Approve | Settings |
+|----------------------------------|----------|
+| ![WhatsApp](assets/whatsapp-redirect.png) | ![Settings](assets/agency-settings.png) |
 
 ---
 
-## 👤 User Screens
+### 🙋 User Flow
 
-| Sign Up              | Profile Creation 1     | Profile Creation 2     |
-|----------------------|------------------------|------------------------|
-| ![Sign Up](assets/user-signup.png) | ![Creation 1](assets/user-profile-creation-1.png) | ![Creation 2](assets/user-profile-creation-2.png) |
+| Sign Up | Profile Creation 1 | Profile Creation 2 |
+|---------|---------------------|---------------------|
+| ![Sign Up](assets/user-signup.png) | ![Profile 1](assets/user-profile-creation-1.png) | ![Profile 2](assets/user-profile-creation-2.png) |
 
-| Profile Creation 3     | Home Screen           | Swipe Right – 1        |
-|------------------------|------------------------|------------------------|
-| ![Creation 3](assets/user-profile-creation-3.png) | ![Home](assets/user-home.png) | ![Swipe 1](assets/user-swipe-right-1.png) |
+| Profile Creation 3 | Home Screen | Swipe Right 1 |
+|--------------------|-------------|----------------|
+| ![Profile 3](assets/user-profile-creation-3.png) | ![Home](assets/user-home.png) | ![Swipe 1](assets/user-swipe-right-1.png) |
 
-| Swipe Right – 2        | Edit User Details      | User Settings          |
-|------------------------|------------------------|------------------------|
+| Swipe Right 2 | Edit Details | Settings |
+|---------------|--------------|----------|
 | ![Swipe 2](assets/user-swipe-right-2.png) | ![Edit](assets/edit-user-details.png) | ![Settings](assets/user-settings.png) |
-
